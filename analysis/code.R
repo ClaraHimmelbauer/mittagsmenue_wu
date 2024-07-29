@@ -1,4 +1,4 @@
-# rm(list = ls()); gc()
+rm(list = ls()); gc()
 
 # packages
 packages <- c("readxl", "tidyverse", "flextable")
@@ -61,38 +61,18 @@ for(k in 1:length(vegan_i)){
     color(i = vegan_i[k], j = vegan_j[k], color = "#46923c")
 }
 
-# merge
-flex <- flex %>% 
-  merge_v(j = ~Restaurant + Täglich + Montag + Dienstag+ Mittwoch + Donnerstag + Freitag)
-
-# table design
+# borders
+x <- cumsum(table(df$Restaurant)[rank(unique(df$Restaurant))])
 flex <- flex %>% 
   bold(j = 1) %>% 
   bg(j = 1, bg = "grey") %>% 
   bg(i = 1, part = "header", bg = "grey50") %>% 
   border(border = officer::fp_border(color = "grey"), part = "body") %>% 
-  border(border = officer::fp_border(color = "grey50"), part = "header")
+  border(border = officer::fp_border(color = "grey50"), part = "header") %>% 
+  border(i = x, border.bottom = officer::fp_border(color = "black"), part = "body")
+
+flex <- flex %>% 
+  merge_v(j = ~Restaurant + Täglich + Montag + Dienstag+ Mittwoch + Donnerstag + Freitag) %>% 
+  fix_border_issues()
 
 
-# # try to estimate borders
-# x <- as.data.frame(table(df$Restaurant)[rank(unique(df$Restaurant))])
-# names(x) <- c("Restaurant", "Freq")
-# y <- df %>%
-#   group_by(Restaurant) %>%
-#   summarize(Täglich = n_distinct(Täglich),
-#             Montag = n_distinct(Montag),
-#             Dienstag = n_distinct(Dienstag),
-#             Mittwoch = n_distinct(Mittwoch),
-#             Donnerstag = n_distinct(Donnerstag),
-#             Freitag = n_distinct(Freitag))
-# dfy <- left_join(x, y)
-# 
-# for(k in 2:7){
-#   name <- names(df)[k]
-#   x <- as.numeric(unlist(dfy[name]))
-#   x <- cumsum(x)
-#   x[length(x)] <- x[length(x)] + 1
-#   flex <- flex %>% 
-#     border(i = x, j = k, border.bottom = officer::fp_border(color = "black"), part = "body")
-# }
-# 
