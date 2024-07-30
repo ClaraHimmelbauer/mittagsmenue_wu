@@ -87,6 +87,9 @@ ui <- fluidPage(
   ),
   div(class = "center-table",
       uiOutput("menue_table")
+  ),
+  div(class = "center-text",
+      a("View the project on github.", href="https://github.com/ClaraHimmelbauer/mittagsmenue_wu/")
   )
 )
 

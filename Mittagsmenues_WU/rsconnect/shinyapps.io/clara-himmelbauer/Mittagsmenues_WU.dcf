@@ -5,7 +5,7 @@ account: clara-himmelbauer
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12378513
-bundleId: 8919452
+bundleId: 8924027
 url: https://clara-himmelbauer.shinyapps.io/Mittagsmenues_WU/
 version: 1
 asMultiple: FALSE
