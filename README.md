@@ -16,3 +16,7 @@ https://www.wumensa.at/menuplan-deutsch/
 https://baschly.com/home/baschly-1020/
 
 https://www.dascampus.at/dc-mittagsmenues
+
+https://www.facebook.com/dchotstuff 
+
+https://lia.coffee/
