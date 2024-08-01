@@ -5,8 +5,22 @@ library(tidyverse)
 library(flextable)
 library(gh)
 
+recode_umlaut2 <- function(x){
+  y <- gsub("\xe4", "ä", x, useBytes = TRUE)
+  y <- gsub("\xf6", "ö", y, useBytes = TRUE)
+  y <- gsub("\xfc", "ü", y, useBytes = TRUE)
+  y <- gsub("\xdf", "ß", y, useBytes = TRUE)
+  y <- gsub("\xc4", "Ä", y, useBytes = TRUE)
+  y <- gsub("\xd6", "Ö", y, useBytes = TRUE)
+  y <- gsub("\xdc", "Ü", y, useBytes = TRUE)
+  y <- gsub("\xc9", "E", y, useBytes = TRUE)
+  y <- gsub("\xe9", "é", y, useBytes = TRUE)
+  return(y)
+}
+
 # Load data
 data <- read.csv2("https://raw.githubusercontent.com/ClaraHimmelbauer/mittagsmenue_wu/main/data/menues.csv")
+data <- as.data.frame(sapply(data, recode_umlaut2))
 
 # Get metadata: when was file last updated
 commits <- gh::gh("/repos/:owner/:repo/commits", owner = "ClaraHimmelbauer", repo = "mittagsmenue_wu", path = "data/menues.csv")
@@ -34,10 +48,10 @@ veggie <- data %>%
 vegetarisch <- which(veggie == "vegetarisch")
 vegan <- which(veggie == "vegan")
 
-vegetarisch_i <- vegetarisch %% nrow(veggie)
 vegetarisch_j <- ceiling(vegetarisch / nrow(veggie))
-vegan_i <- vegan %% nrow(veggie)
+vegetarisch_i <- vegetarisch - (vegetarisch_j - 1) * nrow(veggie)
 vegan_j <- ceiling(vegan / nrow(veggie))
+vegan_i <- vegan - (vegan_j - 1) * nrow(veggie)
 
 # Create flextable
 # make flextable
