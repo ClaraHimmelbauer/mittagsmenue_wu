@@ -3,20 +3,21 @@ Mensa;Täglich;Pasta;vegetarisch
 Mensa;Täglich;Gnocchi;vegetarisch
 Mensa;Täglich;Pizza Margherita;vegetarisch
 Mensa;Täglich;Spezialpizza;
-Mensa;Montag;tba;vegan
-Mensa;Montag;tba;
-Mensa;Dienstag;tba;vegetarisch
-Mensa;Dienstag;tba;
-Mensa;Mittwoch;tba;vegetarisch
-Mensa;Mittwoch;tba;
-Mensa;Donnerstag;tba;vegetarisch
-Mensa;Donnerstag;tba;
-Mensa;Freitag;tba;vegan
-Mensa;Freitag;tba;
-Deli;Täglich;tba;vegetarisch
-Deli;Täglich;tba;
-Deli;Täglich;tba;
-Deli;Täglich;tba;
+Mensa;Montag;Süßkartoffel-Melananzaniragout, Ciabatta;vegan
+Mensa;Montag;Selchfleischknödel, Sauerkraut, Kümmelsaft;
+Mensa;Dienstag;Spinatstrudel, Tomaten, Walnüsse, Erdäpfel, Schnittlauch-Dip;vegan
+Mensa;Dienstag;Gebackene Spinat-Käse Tasche, Erdäpfel, Spinat-Schnittlauch-Dip;vegetarisch
+Mensa;Dienstag;Penne mit Bolognese oder Schinken-Rahmsauce;
+Mensa;Mittwoch;Schupfnudel-Gemüse-Pfanne;vegetarisch
+Mensa;Mittwoch;Schnitzel;
+Mensa;Donnerstag;Vegane Pressknödel, Blattsalat, Soja,Knoblauch Dip;vegan
+Mensa;Donnerstag;Erdäpfel-Würstelgulasch mit Gebäck;
+Mensa;Freitag;Kichererbsen-Gemüse-Curry mit Bulgur;vegan
+Mensa;Freitag;Gebackener Seelachs, Petersil-Edräpfel, Saucetartare;
+Deli;Täglich;Erdäpfelgulasch mit Sauerteigbrot;vegan
+Deli;Täglich;Farfalle Bolognese;
+Deli;Täglich;Huhn süß-sauer mit Basmatireis;
+Deli;Täglich;vegetarisches Moussaka;vegetarisch
 Finn;Täglich;Faschierter Braten mit Kartoffelpüree und Zwiebelsaft;
 Finn;Täglich;Gyoza-Hühner Bento;
 Finn;Täglich;Lachs Bento;
@@ -42,16 +43,16 @@ Library Café;Donnerstag;Rindsstreifen mit Chimichurri Sauce, Couscous, Tomatensa
 Library Café;Freitag;Gebratene Pilze auf Süßkartoffelpüree, Zitronen-Veloute-Sauce, gemischter Salat;vegetarisch
 Library Café;Freitag;Gebratener Fisch;
 Das Campus Hotstuff;Täglich;Kebap-Box mit Huhn oder Falafel;vegan
-Das Campus Hotstuff;Täglich;tba;vegan
-Das Campus Hotstuff;Täglich;tba;
-Das Campus;Montag;tba;vegan
-Das Campus;Montag;tba;
-Das Campus;Dienstag;tba;vegetarisch
-Das Campus;Dienstag;tba;
-Das Campus;Mittwoch;tba;vegetarisch
-Das Campus;Mittwoch;tba;
-Das Campus;Donnerstag;tba;vegetarisch
-Das Campus;Donnerstag;tba;
+Das Campus Hotstuff;Täglich;Kürbisgnocchi mit Feta & Ruccola;vegetarisch
+Das Campus Hotstuff;Täglich;Bauernnockerl mit Speck, Zwiebel, Paprika;
+Das Campus;Montag;Hausgemachte Gemüselaibchen mit Sauce Tartare;vegetarisch
+Das Campus;Montag;Bifteki mit Paprikasalsa und Kräuterreis;
+Das Campus;Dienstag;Gemüselasagne mit Tomatensauce;vegetarisch
+Das Campus;Dienstag;Gebackene Hühnerkeule mit Erdäpfelsalat;
+Das Campus;Mittwoch;Thai-Curry, Gemüse, Kokosreis;vegan
+Das Campus;Mittwoch;Spaghetti Carbonara;
+Das Campus;Donnerstag;Überbackenes Focaccia, Tomaten, Mozzarella, Basilikumpesto;vegetarisch
+Das Campus;Donnerstag;Paprikahendl , Sauerrahm, Butternockerl;
 Zur grünen Hütte;Montag;Kalbsrollbraten mit Paprikagemüse und Wildreis;
 Zur grünen Hütte;Montag;Wiener Krautfleckerl mit buntem Blattsalat;vegetarisch
 Zur grünen Hütte;Dienstag;Bierfleisch von der Schweinsschulter mit Semmelknödel;
