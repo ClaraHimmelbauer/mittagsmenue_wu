@@ -13,10 +13,10 @@ Mensa;Donnerstag;Pasta mit Soja-Gemüsebolognese;vegan
 Mensa;Donnerstag;Schweinsrahmgulasch, Nockerl, Sauerrahm;
 Mensa;Freitag;Wiener Krautflecker, Knoblauch-Sojajoghurt;vegan
 Mensa;Freitag;Gebackener Seelachs, Petersil-erdäpfel, Sauce Tartare;
-Deli;Täglich;tba;vegan
-Deli;Täglich;tba;
-Deli;Täglich;tba;
-Deli;Täglich;tba;vegetarisch
+Deli;Täglich;Backhändl mit Erdäpfelsalat;
+Deli;Täglich;Lasagne;
+Deli;Täglich;Huhn Teriyaki mit Nudeln;
+Deli;Täglich;Gebackener Kafiol mit Reis und Sauce Tartare;vegetarisch
 Finn;Täglich;Rindergeschnetzeltes, Champignons, Gnocchi;
 Finn;Täglich;Bulgogi Bento;
 Finn;Täglich;Lachs Bento;
@@ -42,16 +42,16 @@ Library Café;Donnerstag;Griechischer Bowl mit Rinderfleischstreifen;
 Library Café;Freitag;Gemischte Waldpilze mit Risotto;vegetarisch
 Library Café;Freitag;Fisch mit Risotto;
 Das Campus Hotstuff;Täglich;Kebap-Box mit Huhn oder Falafel;vegan
-Das Campus Hotstuff;Täglich;tba;vegetarisch
-Das Campus Hotstuff;Täglich;tba;
-Das Campus;Montag;tba;vegetarisch
-Das Campus;Montag;tba;
-Das Campus;Dienstag;tba;vegetarisch
-Das Campus;Dienstag;tba;
-Das Campus;Mittwoch;tba;vegan
-Das Campus;Mittwoch;tba;
-Das Campus;Donnerstag;tba;vegetarisch
-Das Campus;Donnerstag;tba;
+Das Campus Hotstuff;Täglich;Gemüse Gulasch;vegetarisch
+Das Campus Hotstuff;Täglich;Cremige Wurstnudeln;
+Das Campus;Montag;Gemüse Quiche mit Käse und Kräuterrahm;vegetarisch
+Das Campus;Montag;Schweinsbraten mit knödel und Sauerkraut;
+Das Campus;Dienstag;Kürbis-Tascherl mit Orangen-Zwiebel-Sauce;vegetarisch
+Das Campus;Dienstag;Gebackener Leberkäse mit Petersilerdäpfeln;
+Das Campus;Mittwoch;Geröstete knödel mit Grünem Salat;vegetarisch
+Das Campus;Mittwoch;Gefüllte Hühnerbrust mit Tomatenreis;
+Das Campus;Donnerstag;Süßkartoffel-Gnocchi mit Feta und Walnüssen;vegetarisch
+Das Campus;Donnerstag;Faschierter Braten mit Erdäpfelpüree;
 Zur grünen Hütte;Montag;Naturschnitzel vom Schwein, Butterreis, Erbsen;
 Zur grünen Hütte;Montag;Zitronenrisotto mit Melanzani, Fenchel, Salbei, Blattsalat;vegetarisch
 Zur grünen Hütte;Dienstag;Geschmortes Rindfleisch nach Burgunder Art mit Kräuterbandnudeln;
