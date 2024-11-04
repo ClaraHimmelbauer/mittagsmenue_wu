@@ -3,86 +3,86 @@ Mensa;Täglich;Pasta;vegetarisch
 Mensa;Täglich;Gnocchi;vegetarisch
 Mensa;Täglich;Pizza Margherita;vegetarisch
 Mensa;Täglich;Spezialpizza;
-Mensa;Montag;Mac and Cheese mit Tomatensauce;vegetarisch
-Mensa;Montag;Faschierter Braten (Schwein), Kartoffelpüree, Saft, Röstzwiebel;
-Mensa;Dienstag;Orientalische Bulgur-Gemüsepfanne;vegan
-Mensa;Dienstag;Szegediner Krautfleisch, Salzkartoffel, Sauerrahm;
-Mensa;Mittwoch;Kürbis-Kartoffelgulasch, Wachauer;vegan
+Mensa;Montag;Marokkanische Tajine mit Süßkartoffeln, Karotten, Marillen;vegan
+Mensa;Montag;Faschierte Laibchen mit Karotffelpüree, Saft, Röstzwiebeln;
+Mensa;Dienstag;Geröstete Knödel mit Ei;vegetarisch
+Mensa;Dienstag;Putengeschnetzeltes;
+Mensa;Mittwoch;Kürbisrisotto;vegan
 Mensa;Mittwoch;Schnitzel;
-Mensa;Donnerstag;Kaiserschamrnr;vegetarisch
-Mensa;Donnerstag;Hühnerragout mit Wurzelstreifen, Kräuterspiralen;
-Mensa;Freitag;Feiertag;vegetarisch
-Mensa;Freitag;Feiertag;
-Baschly;Montag;Tandoori Chicken Masala;
-Baschly;Montag;Kichererbsen-Eintopf;vegan
-Baschly;Dienstag;Butter Chicken Masala;
-Baschly;Dienstag;Kürbis-Risotto mit Parmesan, Ruccolasalat;vegetarisch
-Baschly;Mittwoch;Thai Kokos Red Chicken Curry;
-Baschly;Mittwoch;Gemüse-Wok mit Frühlingsrolle und Teriyakisauce;vegan
-Baschly;Donnerstag;Gebackener Fisch mit Petersilkartoffeln;
-Baschly;Donnerstag;Falafel-Teller mit Pita;vegan
-Baschly;Freitag;Feiertag;
-Baschly;Freitag;Feiertag;vegan
-Deli;Täglich;Schweinsschnitzel, Kartoffelsalat;
-Deli;Täglich;Spinatlasagne;vegetarisch
-Deli;Täglich;Masala Gemüse mit Basmati Reis;vegan
-Deli;Täglich;Hühner-Stroganoff mit Nockerl;
-Finn;Täglich;Boeuf Bourguigonon, Erdäpfelpüree;
-Finn;Täglich;Karaage Bento;
+Mensa;Donnerstag;Gemüse-Eblypfanne, Joghurt;vegan
+Mensa;Donnerstag;Schweinsbraten mit Sauerkraut;
+Mensa;Freitag;Chili con planted, Ciabatta;vegan
+Mensa;Freitag;Gebackener Seelachs, Petersilerdäpfel, Sauce Tartare;
+Baschly;Montag;tba;
+Baschly;Montag;tba;vegan
+Baschly;Dienstag;tba;
+Baschly;Dienstag;tba;vegetarisch
+Baschly;Mittwoch;tba;
+Baschly;Mittwoch;tba;vegan
+Baschly;Donnerstag;tba;
+Baschly;Donnerstag;tba;vegan
+Baschly;Freitag;Gebackener Fisch mit Petersilkartoffeln;
+Baschly;Freitag;Falafel-Teller mit Pita;vegan
+Deli;Täglich;tba;
+Deli;Täglich;tba;vegetarisch
+Deli;Täglich;tba;vegan
+Deli;Täglich;tba;
+Finn;Täglich;Kalbsbackerl in Rotweinsaft, Erdäpfelüree;
+Finn;Täglich;California Maki Bento;
 Finn;Täglich;Lachs Bento;
-Finn;Täglich;Hühner Gyoza mit Reis und Salat;
-Finn;Montag;Holzfäller Cordon Bleu, Maisreis;
-Finn;Montag;Tiroler Schlutzkrapfen, braune Salbeibutter;vegetarisch
-Finn;Dienstag;Überbackene Schinkenfleckerl, Gurkensalat;
-Finn;Dienstag;Wirsing-Erdäpfeleintopf, Baguette;vegan
-Finn;Mittwoch;Gefüllte Paprika, Saltzerdäpfel;
-Finn;Mittwoch;Käsespätzle mit Röstzwiebeln;vegetarisch
-Finn;Donnerstag;Paprikahendl, Butternockerl;
-Finn;Donnerstag;Gemüselasagne, Paradeisersauce;vegetarisch
-Finn;Freitag;Feiertag;
-Finn;Freitag;Feiertag;vegetarisch
-Library Café;Montag;Bohnien-chimi-Changa mit Reis, Bohnenpüree, Salat, Salsa, Avocado;vegetarisch
-Library Café;Montag;rindfleisch-Chimi-changa;
-Library Café;Dienstag;Ungarische gefüllte Paprika mit Schwammerl, Tomatensauce, grüner Salat;vegetarisch
-Library Café;Dienstag;Ungarische gefüllte Paprika mit Faschiertem;
-Library Café;Mittwoch;Grünes Thai-Kokos-Curry mit Tofu, firschem Gemüse, Jasminreis, Obstsalat;vegetarisch
-Library Café;Mittwoch;Curry mit Hühnchen;
-Library Café;Donnerstag;Griechisches Gyros mit Portobello-Pilzen, Tomatensalat, Tzatziki, Pommes;vegetarisch
-Library Café;Donnerstag;Gyros mit Rindfleisch;
-Library Café;Freitag;feiertag;vegetarisch
-Library Café;Freitag;Feiertag;
-Das Campus Hotstuff;Täglich;Gnocchi in Specksauce mit Spinat;
-Das Campus Hotstuff;Täglich;Lauch-Erdäpfel-eintopf mit Gemüse;vegan
-Das Campus Hotstuff;Täglich;Cremige Käsespätzle mit Röstzwiebeln;vegetarisch
-Das Campus;Montag;Wiener Krautfleckerl, Salat;vegetarisch
-Das Campus;Montag;Krustenbraten mit Gemüse, Erdäpfelgratin;
-Das Campus;Dienstag;Spinatnockelr in Käsesauce, Ofentomaten;vegan
-Das Campus;Dienstag;Tandoori-hühnerspieße, Basmatireis;
-Das Campus;Mittwoch;Kürbis-Quiche mit Feta und Ruccola;vegetarisch
-Das Campus;Mittwoch;Fleischlaiberl mit Peterislkartoffeln, Gemüse;
-Das Campus;Donnerstag;Ofenmelanzani in Tomatensauce mit Feta und Kerbel;vegetarisch
-Das Campus;Donnerstag;Überbackenes Hühnerfilet mit Käse, Tomaten, Rosmarinkartoffeln;
-Zur grünen Hütte;Montag;Lasagne Bolognese, Blattsalat;
-Zur grünen Hütte;Montag;Gratinierter Fenchel, Erdäpfelscheiben, Käse, Walnüsse, Salat;vegetarisch
-Zur grünen Hütte;Dienstag;Hühnergeschnetzeltes mit Curry, Kirchererbsen, Mandelreis;
-Zur grünen Hütte;Dienstag;Rollgerste mit Kernöl, geröstete Eierschwammerl, Blattsalat;vegetarisch
-Zur grünen Hütte;Mittwoch;Geschmorter Kalbsrollbraten, Reis, Erbsen;
-Zur grünen Hütte;Mittwoch;Kürbis-Quiche mit Maroni, Tomatensalat;vegetarisch
-Zur grünen Hütte;Donnerstag;Steirisches Wurzelfleisch mit Kren, Wurzelgemüse, Salzerdäpfel;
-Zur grünen Hütte;Donnerstag;Geröstete Knödel mit Bio-ei, Schnittlauch, grüner Salat;vegetarisch
-Zur grünen Hütte;Freitag;Frsicher Kabeljau gebacken mit Erdäpfelsalat;
-Karma Food;Montag;Melanzani Lauch Blgur Bowl;vegan
-Karma Food;Montag;Broccoli cashew Curry;vegan
-Karma Food;Montag;kürbis Kirchererbsen Linsen Dal;vegan
-Karma Food;Dienstag;Kräuter Quinoa Veggie Bowl mit Curry Joghurt;vegan
-Karma Food;Dienstag;Vindaloo Köfte Curry;vegan
-Karma Food;Dienstag;Sellerie Urid Linsen Dal;vegan
-Karma Food;Mittwoch;Mango Veggie Bwol mit rotem Reis;vegan
-Karma Food;Mittwoch;Grünes Kokos Ve3ggie Curry;vegan
-Karma Food;Mittwoch;Mangold quinoa Chili sin Carne;vegan
-Karma Food;Donnerstag;Süßkartoffel Kidneybohnen veggie Lasagne;vegetarisch
-Karma Food;Donnerstag;Satay veggie curry;vegan
-Karma Food;Donnerstag;kimchi veggie stwe;vegan
-Karma Food;Freitag;feiertag;vegan
-Karma Food;Freitag;feiertag;vegan
-Karma Food;Freitag;feiertag;vegan
+Finn;Täglich;Frühlingsrollen mit Reis und Salat;
+Finn;Montag;Rindsgeschnetzeltes mit Tagliatelle;
+Finn;Montag;Kichererbsen-kürbisragout, Reis;vegan
+Finn;Dienstag;Spareribs mit wedges, bbq-sauce;
+Finn;Dienstag;curry mit paneer, naan;vegetarisch
+Finn;Mittwoch;fleischbällchen in tomatensauce, erdäpfelpüree;
+Finn;Mittwoch;rösti mit spinat, spiegelei;vegetarisch
+Finn;Donnerstag;red thai chicken curry, reis;
+Finn;Donnerstag;gefüllte melanzani mit bulgur und minzjogurt;vegetarisch
+Finn;Freitag;gebackene scholle mit erdäpfel-mayo-salat;
+Finn;Freitag;chili sin carne;vegan
+Library Café;Montag;BohnenChimichanga mit Reis, Bohnenpüree, Salat, Salsa, Avocado;vegetarisch
+Library Café;Montag;Rindflesich-Chimichanga;
+Library Café;Dienstag;Dal-Curry mit gedämpftem Jasminreis, Naan-Brot, Dessert;vegetarisch
+Library Café;Dienstag;Chicken Tikka Masala;
+Library Café;Mittwoch;Bibimbap mit Pilzen, Spinat, Sojasprossen, Karotten, Salat, Spiegelei, Kimchi, Chilisauce;vegetarisch
+Library Café;Mittwoch;Bibimbap mit Rindfleisch;
+Library Café;Donnerstag;Scheperds Pie mit Schwammerln, Salat;vegetarisch
+Library Café;Donnerstag;Sheperds Pie mit Faschiertem;
+Library Café;Freitag;Kihcererbsen, Champignons, Tomatensauce, Couscous, Salat;vegetarisch
+Library Café;Freitag;Gisch in Tomatensauce mit Couscous, Salat;
+Das Campus Hotstuff;Täglich;tba;
+Das Campus Hotstuff;Täglich;tba;vegan
+Das Campus Hotstuff;Täglich;tba;vegetarisch
+Das Campus;Montag;Rote Rüben Risotto;vegetarisch
+Das Campus;Montag;Berner Würstel;
+Das Campus;Dienstag;Gebackene Zucchini;vegetarisch
+Das Campus;Dienstag;Hühnerragout mit Wurzelstreifen, Kräuterspiralen;
+Das Campus;Mittwoch;Geröstete Knödel;vegetarisch
+Das Campus;Mittwoch;Krautrouladen;
+Das Campus;Donnerstag;Burrito mit Bohnen-Mais-Ragout;vegetarisch
+Das Campus;Donnerstag;Majoranfleisch mit Nudeln;
+Zur grünen Hütte;Montag;tba;
+Zur grünen Hütte;Montag;tba;vegetarisch
+Zur grünen Hütte;Dienstag;tba;
+Zur grünen Hütte;Dienstag;tba;vegetarisch
+Zur grünen Hütte;Mittwoch;tba;
+Zur grünen Hütte;Mittwoch;tba;vegetarisch
+Zur grünen Hütte;Donnerstag;tba;
+Zur grünen Hütte;Donnerstag;tba;vegetarisch
+Zur grünen Hütte;Freitag;tba;
+Karma Food;Montag;Melanzani Bulgur Bwol mit Petersilie und Humus Dip;vegan
+Karma Food;Montag;Paprika Sellerie Veggie Curry;vegan
+Karma Food;Montag;Kürbis Linsen Dal;vegan
+Karma Food;Dienstag;Quinoa Lauch Veggie Bowl mit Feta und Joghurt dip;vegan
+Karma Food;Dienstag;cremiges green kokos köfte curry;vegan
+Karma Food;Dienstag;kichererbsen urid linsen dal;vegan
+Karma Food;Mittwoch;Berglinsen Kürbis Bowl mit Quinoa und Tomato dip;vegan
+Karma Food;Mittwoch;Korma Fenchel Gemüse Curry;vegan
+Karma Food;Mittwoch;Tofu Chili Sin Carne;vegan
+Karma Food;Donnerstag;Schmorkürbis Ricotta Lasagne;vegetarisch
+Karma Food;Donnerstag;Indonesisches Veggie Curry;vegan
+Karma Food;Donnerstag;Erdäpfel Gulasch;vegan
+Karma Food;Freitag;Sweet sour chana biryani mit Achar Raita;vegan
+Karma Food;Freitag;Broccoli Mandel Fungi Pad Gemüse Curry;vegan
+Karma Food;Freitag;Fruchtiges Kaffier Lime Linsen Dal;vegan
