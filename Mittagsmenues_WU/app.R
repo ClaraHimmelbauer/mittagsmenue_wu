@@ -34,7 +34,7 @@ df <- data %>%
   ungroup() %>% 
   select(Restaurant, Wochentag, Gericht, id) %>% 
   pivot_wider(names_from = Wochentag, values_from = Gericht) %>% 
-  select(Restaurant, Täglich, Montag, Dienstag, Mittwoch, Donnerstag, Freitag)
+  select(Restaurant, Täglich, Montag, Dienstag, Mittwoch, Dönerstag, Freitag)
 
 # Identify vegetarian and vegan cells
 veggie <- data %>%
@@ -43,7 +43,7 @@ veggie <- data %>%
   ungroup() %>% 
   select(Restaurant, Wochentag, `Vegetarisch.Vegan`, id) %>% 
   pivot_wider(names_from = Wochentag, values_from = `Vegetarisch.Vegan`) %>% 
-  select(Restaurant, Täglich, Montag, Dienstag, Mittwoch, Donnerstag, Freitag)
+  select(Restaurant, Täglich, Montag, Dienstag, Mittwoch, Dönerstag, Freitag)
 
 vegetarisch <- which(veggie == "vegetarisch")
 vegan <- which(veggie == "vegan")
@@ -79,7 +79,7 @@ flex <- flex %>%
   border(i = x, border.bottom = officer::fp_border(color = "black"), part = "body")
 
 flex <- flex %>% 
-  merge_v(j = ~Restaurant + Täglich + Montag + Dienstag+ Mittwoch + Donnerstag + Freitag) %>% 
+  merge_v(j = ~Restaurant + Täglich + Montag + Dienstag+ Mittwoch + Dönerstag + Freitag) %>% 
   fix_border_issues()
 
 # Define UI for the Shiny app
