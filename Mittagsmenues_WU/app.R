@@ -80,7 +80,8 @@ flex <- flex %>%
 
 flex <- flex %>% 
   merge_v(j = ~Restaurant + Täglich + Montag + Dienstag+ Mittwoch + Donnerstag + Freitag) %>% 
-  fix_border_issues()
+  fix_border_issues() %>% 
+  set_header_labels(values = c("Restaurant", "Täglich", "Montag", "Dienstag", "Mittwoch", "Dönerstag", "Freitag"))
 
 # Define UI for the Shiny app
 ui <- fluidPage(
